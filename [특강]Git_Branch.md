@@ -26,3 +26,4 @@ git pull origin master
 
 그런데, 학원에서 새 파일을 만들었는데, 집에가서 pull받지 않고 그대로 작업 한 뒤 push하면??
 
+![image-20200424093428672](images/image-20200424093428672.png)
