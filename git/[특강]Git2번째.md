@@ -10,6 +10,12 @@
 
 빔 훈련하기 게임 : https://vim-adventures.com/
 
+백엔드 개발자를 꿈꾸는 학생개발자에게 : https://d2.naver.com/news/3435170
+
+좋은 git 커밋 메시지를 작성하기 위한 7가지 약속 : https://meetup.toast.com/posts/106
+
+
+
 * 이렇게 해놓으면 private으로 올려도 contribution이 뜬다. 
 
 ![image-20200423092935705](images/image-20200423092935705.png)
@@ -321,8 +327,9 @@ Untracked files:
   * 
 
 * 민감하고 공개되면 안되는 정보(프로젝트, 아이디어 등등)를 ignore해야 한다.
-  * git ignore 만들어 주는 사이트 :  http://gitignore.io/
-
+  
+* git ignore 만들어 주는 사이트 :  http://gitignore.io/
+  
 * 이미 tracking 되고 있는 폴더나 파일에 대하여, rm cached 해서 이력을 제거하고, ignore파일로 관리하면 된다. 
 
 
